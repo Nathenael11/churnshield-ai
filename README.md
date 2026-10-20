@@ -28,8 +28,5 @@ AI-powered customer churn prediction system for telecom and financial services.
 
  Author
 
-Nathanael Ermias
+Nathenael Ermias
 
- License
-
-MIT
